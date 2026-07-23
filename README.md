@@ -33,6 +33,7 @@ Diplômee d'un Master en Ingenierie Economique et Financiere et d'une formation 
 | 08 | Infrastructure cloud streaming | Redpanda, Docker, Python | [Voir le repo](https://github.com/oumaymaselmen/projet-08-infrastructure-cloud-streaming) |
 | 09 | Pipeline orchestration BottleNeck | Kestra, DuckDB | [Voir le repo](https://github.com/oumaymaselmen/projet-09-pipeline-orchestration-kestra) |
 | 10 | Systeme RAG Puls-Events ⭐ | LangChain, Mistral AI, FAISS | [Voir le repo](https://github.com/oumaymaselmen/projet-10-rag-puls-events) |
+| 11 | POC Avantages Sportifs ⭐ | Kestra, PostgreSQL, Slack, Power BI | [Voir le repo](https://github.com/oumaymaselmen/projet-11-poc-avantages-sportifs) |
 
 ---
 
