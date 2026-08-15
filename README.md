@@ -1,6 +1,6 @@
-﻿# Bonjour, je suis Oumayma Selmen 👋
+﻿# Bonjour, je suis Oumayma Selmen 
 
-## Data Engineer | Cloud & AI — Data Pipelines · Generative AI · Finance
+## Data Engineer | Cloud & AI - Data Pipelines · Generative AI · Finance
 
 Diplômee d'un Master en Ingenierie Economique et Financiere et d'une formation Data Engineer (RNCP Niveau 7 - OpenClassrooms), je construis des pipelines de donnees robustes, des infrastructures cloud et des systemes d'IA generative.
 
@@ -19,7 +19,7 @@ Diplômee d'un Master en Ingenierie Economique et Financiere et d'une formation 
 
 ---
 
-## Projets de formation — Data Engineer OpenClassrooms
+## Projets de formation -Data Engineer OpenClassrooms
 
 | # | Projet | Stack | Lien |
 |---|--------|-------|------|
@@ -32,18 +32,18 @@ Diplômee d'un Master en Ingenierie Economique et Financiere et d'une formation 
 | 07 | Infrastructure ELT GreenCoop | Airbyte, Docker, DBT Core | [Voir le repo](https://github.com/oumaymaselmen/projet-07-infrastructure-elt-greencoop) |
 | 08 | Infrastructure cloud streaming | Redpanda, Docker, Python | [Voir le repo](https://github.com/oumaymaselmen/projet-08-infrastructure-cloud-streaming) |
 | 09 | Pipeline orchestration BottleNeck | Kestra, DuckDB | [Voir le repo](https://github.com/oumaymaselmen/projet-09-pipeline-orchestration-kestra) |
-| 10 | Systeme RAG Puls-Events ⭐ | LangChain, Mistral AI, FAISS | [Voir le repo](https://github.com/oumaymaselmen/projet-10-rag-puls-events) |
-| 11 | POC Avantages Sportifs ⭐ | Kestra, PostgreSQL, Slack, Power BI | [Voir le repo](https://github.com/oumaymaselmen/projet-11-poc-avantages-sportifs) |
+| 10 | Systeme RAG Puls-Events  | LangChain, Mistral AI, FAISS | [Voir le repo](https://github.com/oumaymaselmen/projet-10-rag-puls-events) |
+| 11 | POC Avantages Sportifs  | Kestra, PostgreSQL, Slack, Power BI | [Voir le repo](https://github.com/oumaymaselmen/projet-11-poc-avantages-sportifs) |
 
 ---
 
 ## Projets phares
 
-### 🤖 Systeme RAG Puls-Events
+###  Systeme RAG Puls-Events
 Pipeline RAG complet pour un chatbot evenementiel : collecte de donnees, vectorisation FAISS, generation de reponses avec Mistral AI via LangChain. Score cosine similarity : **89.6%**
 → [github.com/oumaymaselmen/projet-10-rag-puls-events](https://github.com/oumaymaselmen/projet-10-rag-puls-events)
 
-### 🍷 Pipeline Orchestration BottleNeck (Kestra)
+###  Pipeline Orchestration BottleNeck (Kestra)
 Pipeline d'orchestration complet avec Kestra et DuckDB : analyse de 712 produits, CA de 65 402 euros, identification de 30 vins premium par score z.
 → [github.com/oumaymaselmen/projet-09-pipeline-orchestration-kestra](https://github.com/oumaymaselmen/projet-09-pipeline-orchestration-kestra)
 
