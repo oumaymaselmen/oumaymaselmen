@@ -47,8 +47,13 @@ Pipeline RAG complet pour un chatbot événementiel : collecte de données, vect
 Pipeline d'orchestration complet avec Kestra et DuckDB : analyse de 712 produits, CA de 65 402 euros, identification de 30 vins premium par score z.
 → [github.com/oumaymaselmen/projet-09-pipeline-orchestration-kestra](https://github.com/oumaymaselmen/projet-09-pipeline-orchestration-kestra)
 
----
+## Compétences démontrées et valeur ajoutée
 
+- Ingénierie de données de bout en bout : collecte, modélisation, pipelines ELT et streaming, orchestration
+- IA générative en production : RAG, bases vectorielles, évaluation de la qualité
+- Cloud et DevOps : conteneurisation Docker, services AWS, CI/CD
+- Pilotage et communication : cadrage, estimation, priorisation, restitution aux équipes métier
+  
 ## Contact
 
 - LinkedIn : linkedin.com/in/oumayma-selmen
